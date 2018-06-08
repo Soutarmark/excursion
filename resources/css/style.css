@@ -10,3 +10,21 @@ a {
 font-family: verdana;
   color: aquamarine;
 }
+
+h3 {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+h4 {
+  font-family: verdana;
+  font-size: 21px;
+  color: grey;
+}
+
+h5 {
+  color: grey;
+  text-align: right;
+}
